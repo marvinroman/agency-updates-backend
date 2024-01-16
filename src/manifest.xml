@@ -1,4 +1,46 @@
 <manifest projecttype="ACCOUNTCUSTOMIZATION">
   <projectname>AgencySCAUpdates</projectname>
   <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">MATRIXITEMS</feature>
+      <feature required="true">ACCOUNTING</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+    </features>
+    <objects>
+      <object>customrole_cafb_food_resources</object>
+      <object>customrole_cafb_controller</object>
+      <object>custtab_109_229676_sb1_438</object>
+      <object>customrole_cafb_customer_support</object>
+      <object>customrole1145</object>
+      <object>customrole1024</object>
+      <object>customrole1029</object>
+      <object>customrole_cafb_data_analytics_reporting</object>
+      <object>customrole1023</object>
+      <object>customrole1022</object>
+      <object>customrole1143</object>
+      <object>customrole1142</object>
+      <object>customrole1163</object>
+      <object>customrole1141</object>
+      <object>customrole_cafb_warehouse_manager</object>
+      <object>customrecord_cseg_mhi_program</object>
+      <object>customrole_cafb_ap_clerk</object>
+      <object>customrole_cafb_inv_manager_dcp</object>
+      <object>customrole_cafb_program_coordinator</object>
+      <object>customrole_cafb_accountant</object>
+      <object>customlist758</object>
+      <object>custtab_147_229676_154</object>
+      <object>customrole1037</object>
+      <object>customrecord_cseg1</object>
+      <object>customrole1030</object>
+      <object>customrole1150</object>
+      <object>customrole_cafb_data_analyst</object>
+      <object>customrole1033</object>
+      <object>customrole1174</object>
+      <object>customrole1031</object>
+    </objects>
+  </dependencies>
 </manifest>

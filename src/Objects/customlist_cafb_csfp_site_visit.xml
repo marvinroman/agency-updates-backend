@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_cafb_csfp_site_visit">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>CSFP Site Type</name>
+  <customvalues>
+    <customvalue scriptid="val_5581663_229676_906">
+      <abbreviation>R</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Residential</value>
+    </customvalue>
+    <customvalue scriptid="val_5581664_229676_479">
+      <abbreviation>H</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Home Delivery</value>
+    </customvalue>
+    <customvalue scriptid="val_5581665_229676_732">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Community</value>
+    </customvalue>
+  </customvalues>
+</customlist>

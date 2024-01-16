@@ -1,0 +1,74 @@
+<customlist scriptid="customlist_cafb_site_visit_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>F</isordered>
+  <name>Site Visit Document Type</name>
+  <customvalues>
+    <customvalue scriptid="val_5135428_229676_375">
+      <abbreviation>5</abbreviation>
+      <isinactive>F</isinactive>
+      <value>501C3</value>
+    </customvalue>
+    <customvalue scriptid="val_5945653_229676_860">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Affirmation Letter or Publication 78</value>
+    </customvalue>
+    <customvalue scriptid="val_3782316_229676_sb1_858">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CAFB Site Review</value>
+    </customvalue>
+    <customvalue scriptid="val_4218765_229676_895">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Capacity Grant site visit</value>
+    </customvalue>
+    <customvalue scriptid="val_5135427_229676_277">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Food Safety Certificate</value>
+    </customvalue>
+    <customvalue scriptid="val_5135429_229676_179">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Occupancy Permit</value>
+    </customvalue>
+    <customvalue scriptid="val_5135430_229676_255">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Partner Contract</value>
+    </customvalue>
+    <customvalue scriptid="val_5962772_229676_477">
+      <abbreviation>P</abbreviation>
+      <isinactive>T</isinactive>
+      <value>Publication 78</value>
+    </customvalue>
+    <customvalue scriptid="val_5391676_229676_256">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Record of Inactivity Outreach</value>
+    </customvalue>
+    <customvalue scriptid="val_3782315_229676_sb1_345">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Site Visit Outreach</value>
+    </customvalue>
+    <customvalue scriptid="val_5135431_229676_228">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TEFAP Contract</value>
+    </customvalue>
+    <customvalue scriptid="val_5224250_229676_785">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TEFAP Pre-award Questionnaire</value>
+    </customvalue>
+    <customvalue scriptid="val_3782317_229676_sb1_306">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>TEFAP SRA Review Form</value>
+    </customvalue>
+  </customvalues>
+</customlist>

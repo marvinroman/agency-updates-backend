@@ -1,0 +1,54 @@
+<customlist scriptid="customlist_cafb_site_visit_status">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>F</isordered>
+  <name>Site Visit/Outreach Status</name>
+  <customvalues>
+    <customvalue scriptid="val_3782325_229676_sb1_381">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Conducted</value>
+    </customvalue>
+    <customvalue scriptid="val_3782326_229676_sb1_218">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Conducted with Issues</value>
+    </customvalue>
+    <customvalue scriptid="val_5147063_229676_504">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Document Received</value>
+    </customvalue>
+    <customvalue scriptid="val_5147064_229676_149">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Document Verified</value>
+    </customvalue>
+    <customvalue scriptid="val_5383297_229676_500">
+      <abbreviation></abbreviation>
+      <isinactive>T</isinactive>
+      <value>Inactivity Outreach</value>
+    </customvalue>
+    <customvalue scriptid="val_6017195_229676_378">
+      <abbreviation></abbreviation>
+      <isinactive>F</isinactive>
+      <value>Not Available</value>
+    </customvalue>
+    <customvalue scriptid="val_3782322_229676_sb1_539">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Outreach Attempt #</value>
+    </customvalue>
+    <customvalue scriptid="val_3782324_229676_sb1_660">
+      <abbreviation>R</abbreviation>
+      <isinactive>T</isinactive>
+      <value>Re-scheduled</value>
+    </customvalue>
+    <customvalue scriptid="val_3782323_229676_sb1_874">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Scheduled</value>
+    </customvalue>
+  </customvalues>
+</customlist>
